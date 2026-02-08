@@ -188,7 +188,7 @@ export default function Home() {
                   target="_blank"
                   className="text-indigo-600 dark:text-indigo-400 hover:underline"
                 >
-                  Hamza Sheikh
+                  Abdul Saboor
                 </Link>
               </p>
               <div className="flex items-center gap-6 text-sm">
